@@ -1,0 +1,231 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+div#header {
+    padding: 64px 0 25px 1px;
+}
+html.layout-v2 body.register-page div.signin-options {
+    padding-bottom: 6px;
+}
+
+html.layout-v2 body div.signin-options {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+body {
+      background-color: #fff;
+    padding-top: 1px;
+}
+h3{
+    color: #00bceb;
+    text-align: center;
+    font-size: 2.5rem;
+
+}
+select{
+    height: 40px;
+    width: 90%;
+}
+.container {
+  width: 35vw;
+  max-width: 500px;
+  padding: 5em 1.5em;
+  background-color: white;
+  margin: 1em auto;
+  border-radius: 0.5em; 
+}
+h5 {
+  font-size: 1em;
+}
+.input-section {
+  margin: 0.5em 0;
+}
+label,
+.error-message {
+  display: block;
+  font-size: 1em;
+}
+label {
+  margin-bottom: 0.5em;
+  font-weight: 500;
+}
+.error-message {
+  margin-top: 0.2em;
+}
+input, button {
+  display: block;
+  outline: none;
+  width: 90%;
+  padding: 0.5em;
+  border-radius: 0.3em;
+}
+input {
+  padding: 1em 0.5em;
+  border: 1.5px solid #d0d0d0;
+}
+button {
+  font-size: 1.2em;
+  background-color: gray;
+  border: blueviolet;
+  color: #ffffff;
+  padding: 1.8em 0;
+  margin-top: 2em;
+  width: 90%;
+  margin-top: center;
+  margin: 32px 0 0 0;
+}
+.required-color {
+  color: #ff4747;
+}
+.error {
+  border-color: #ff4747;
+}
+.valid {
+  border-color: #37a137;
+}
+.hide {
+  display: none;
+}
+@media only screen and (max-width: 450px) {
+  .container {
+    font-size: 14px;
+  }
+}
+element.style {
+}
+html.layout-v2 body div#content div#header {
+    /* padding: 64px 0 25px 1px; */
+}
+div#content div#header {
+    /* padding: 20px 0 14px 1px; */
+}
+html.layout-v2.is-checkout div#header {
+    position: relative;
+}
+html.layout-v2 body div#header {
+    padding: 25px 0 25px 1px;
+    text-align: center;
+}
+div#content, div#header {
+    width: 100%;
+    /* max-width: 720px; */
+    min-width: 540px;
+}
+div#header {
+    padding: 20px 0 14px 1px;
+}
+div {
+    margin: 0;
+    /* padding: 0; */
+}
+user agent stylesheet
+div {
+    display: block;
+}
+html.layout-v2 body {
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: .4px;
+    background-color: #eee;
+}
+body {
+    background-color: #fff;
+    color: #222;
+    font-family: Tahoma,Geneva,sans-serif;
+    font-size: .78em;
+    line-height: 18px;
+    min-height: 100%;
+}
+html, button, input, div.form fieldset div.field input:not([type=checkbox]).checkbox, div.form fieldset div.field select.checkbox, select, textarea {
+    font-family: sans-serif;
+}
+element.style {
+}
+html.layout-v2 body.register-page div.info {
+    margin-bottom: 0px;
+}
+html.layout-v2 body div.info {
+    padding: 0 25px 10px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.register div.info-centre {
+    margin-bottom: 31px;
+}
+div.info-centre {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    overflow-y: visible;
+}
+div.info {
+    padding: 0 6%;
+    margin: 43px 18px 18px;
+}
+div {
+    margin: 0;
+    /* padding: 0; */
+}
+user agent stylesheet
+div {
+    display: block;
+}
+style attribute {
+    visibility: visible;
+}
+html.layout-v2 body {
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: .4px;
+    background-color: #eee;
+}
+body {
+    background-color: #fff;
+    color: #222;
+    font-family: Tahoma,Geneva,sans-serif;
+    font-size: .78em;
+    line-height: 18px;
+    min-height: 100%;
+}
+html, button, input, div.form fieldset div.field input:not([type=checkbox]).checkbox, div.form fieldset div.field select.checkbox, select, textarea {
+    font-family: sans-serif;
+}
+ .term label {   
+    -webkit-text-size-adjust: 100%;
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: .5px;
+    font-size: 13px;
+    line-height: 14px;
+    background: transparent;
+  }
+.term a {    
+    color: #666;
+  }
+ .div qa-header { 
+      -webkit-text-size-adjust: 100%;
+    color: #222;
+    visibility: visible;
+    text-align: center;
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.7;
+    margin: 0;
+  }
